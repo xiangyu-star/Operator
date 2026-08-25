@@ -1,0 +1,25 @@
+# ------------------------------------------------------------------
+# CSB-TRO reproducibility package — git attributes
+#
+# CRITICAL: this package ships SHA256SUMS.txt and verify_package.py,
+# which verify byte-for-byte file integrity. Any line-ending
+# conversion on checkout would change file contents and break the
+# checksums, so ALL files are stored and checked out exactly as
+# archived (no EOL normalization, no smudge/clean filters).
+# ------------------------------------------------------------------
+
+* -text
+
+# Binary formats (keep them out of text diffs)
+*.mph binary
+*.gz binary
+
+# Linguist: generated data tables, figures and tool status files are
+# not authored code; hide them from the language statistics so the
+# bar reflects the actual code (Python/Shell/Markdown).
+*.tsv linguist-vendored
+*.csv linguist-vendored
+*.bed linguist-vendored
+*.json linguist-vendored
+*.svg linguist-vendored
+*.status linguist-vendored
