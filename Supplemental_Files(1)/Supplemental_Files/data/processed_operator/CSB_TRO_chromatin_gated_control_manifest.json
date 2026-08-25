@@ -1,0 +1,15 @@
+{
+  "status": "completed_with_available_ATAC_and_missing_histone_inputs",
+  "n_target_regions": 64,
+  "n_background_regions": 1344,
+  "outputs": [
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_residual_module_region_composition.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_module_chromatin_overlap.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_module_chromatin_stage_delta.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_chromatin_gated_TF_activity.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_chromatin_gated_control_metrics.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_chromatin_gated_control_ablation.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\figures\\CSB_TRO_chromatin_gated_control.svg",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\docs\\CSB_TRO_chromatin_gated_control_summary.md"
+  ]
+}

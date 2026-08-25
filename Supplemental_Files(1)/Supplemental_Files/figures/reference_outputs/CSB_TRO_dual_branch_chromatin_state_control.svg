@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="430" viewBox="0 0 940 430">
+<rect width="100%" height="100%" fill="white"/>
+<text x="85" y="28" font-family="Arial" font-size="18" font-weight="700">Dual-branch chromatin-state control</text>
+<line x1="85" y1="295" x2="915" y2="295" stroke="#222"/>
+<line x1="85" y1="45" x2="85" y2="295" stroke="#222"/>
+<line x1="85" y1="284.00" x2="915" y2="284.00" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="77" y="288.00" text-anchor="end" font-family="Arial" font-size="10">0.044</text>
+<line x1="85" y1="170.00" x2="915" y2="170.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="77" y="174.00" text-anchor="end" font-family="Arial" font-size="10">0.5</text>
+<line x1="85" y1="76.25" x2="915" y2="76.25" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="77" y="80.25" text-anchor="end" font-family="Arial" font-size="10">0.875</text>
+<line x1="85" y1="45.00" x2="915" y2="45.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="77" y="49.00" text-anchor="end" font-family="Arial" font-size="10">1</text>
+<rect x="104.71" y="45.00" width="64.33" height="250.00" fill="#6f4d8b"/>
+<text x="136.88" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="136.88" y="313" text-anchor="end" transform="rotate(-45 136.88 313)" font-family="Arial" font-size="9">8cell 3pn inverse M02 M10</text>
+<rect x="208.46" y="45.00" width="64.33" height="250.00" fill="#6f4d8b"/>
+<text x="240.62" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="240.62" y="313" text-anchor="end" transform="rotate(-45 240.62 313)" font-family="Arial" font-size="9">8cell 3pn raw M02 M10</text>
+<rect x="312.21" y="45.00" width="64.33" height="250.00" fill="#6f4d8b"/>
+<text x="344.38" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="344.38" y="313" text-anchor="end" transform="rotate(-45 344.38 313)" font-family="Arial" font-size="9">8cell 3pn raw M02 only</text>
+<rect x="415.96" y="45.00" width="64.33" height="250.00" fill="#6f4d8b"/>
+<text x="448.12" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="448.12" y="313" text-anchor="end" transform="rotate(-45 448.12 313)" font-family="Arial" font-size="9">8cell 2pn inverse M02 M10</text>
+<rect x="519.71" y="45.00" width="64.33" height="250.00" fill="#6f4d8b"/>
+<text x="551.88" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="551.88" y="313" text-anchor="end" transform="rotate(-45 551.88 313)" font-family="Arial" font-size="9">8cell 2pn raw M02 M10</text>
+<rect x="623.46" y="45.00" width="64.33" height="250.00" fill="#6f4d8b"/>
+<text x="655.62" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="655.62" y="313" text-anchor="end" transform="rotate(-45 655.62 313)" font-family="Arial" font-size="9">8cell 2pn raw M02 only</text>
+<rect x="727.21" y="45.00" width="64.33" height="250.00" fill="#2c6f5a"/>
+<text x="759.38" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="759.38" y="313" text-anchor="end" transform="rotate(-45 759.38 313)" font-family="Arial" font-size="9">8cell 3pn none</text>
+<rect x="830.96" y="50.56" width="64.33" height="244.44" fill="#2c6f5a"/>
+<text x="863.12" y="45.56" text-anchor="middle" font-family="Arial" font-size="10">0.978</text>
+<text x="863.12" y="313" text-anchor="end" transform="rotate(-45 863.12 313)" font-family="Arial" font-size="9">8cell 2pn none</text>
+<text x="85" y="408" font-family="Arial" font-size="12">Green: closure branch only. Purple: closure plus accessibility branch grid.</text>
+</svg>

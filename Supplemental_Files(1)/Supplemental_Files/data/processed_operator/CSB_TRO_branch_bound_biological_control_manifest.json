@@ -1,0 +1,11 @@
+{
+  "status": "completed_with_available_surrogates_no_histone_tracks",
+  "outputs": [
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_branch_bound_biological_control_features.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_branch_bound_biological_control_alpha_scan.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_branch_bound_biological_control_summary.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\figures\\CSB_TRO_branch_bound_biological_control_alpha_scan.svg",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\docs\\CSB_TRO_branch_bound_biological_control_summary.md"
+  ],
+  "boundary": "surrogate candidates are not final histone u_bio"
+}

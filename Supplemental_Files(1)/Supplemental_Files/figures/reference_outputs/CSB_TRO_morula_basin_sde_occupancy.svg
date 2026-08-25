@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="460" viewBox="0 0 980 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="85" y="28" font-family="Arial" font-size="19" font-weight="700">Morula basin occupancy after 8-cell to morula latent SDE rollout</text>
+<line x1="85" y1="315" x2="955" y2="315" stroke="#222"/>
+<line x1="85" y1="45" x2="85" y2="315" stroke="#222"/>
+<line x1="85" y1="315.00" x2="955" y2="315.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="319.00" text-anchor="end" font-family="Arial" font-size="11">0</text>
+<line x1="85" y1="247.50" x2="955" y2="247.50" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="251.50" text-anchor="end" font-family="Arial" font-size="11">0.25</text>
+<line x1="85" y1="180.00" x2="955" y2="180.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="184.00" text-anchor="end" font-family="Arial" font-size="11">0.5</text>
+<line x1="85" y1="112.50" x2="955" y2="112.50" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="116.50" text-anchor="end" font-family="Arial" font-size="11">0.75</text>
+<line x1="85" y1="78.75" x2="955" y2="78.75" stroke="#b33" stroke-dasharray="4 4"/>
+<text x="77" y="82.75" text-anchor="end" font-family="Arial" font-size="11">0.875</text>
+<line x1="85" y1="45.00" x2="955" y2="45.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="49.00" text-anchor="end" font-family="Arial" font-size="11">1</text>
+<rect x="100.47" y="213.00" width="65.73" height="102.00" fill="#2f6f8f"/>
+<text x="133.33" y="208.00" text-anchor="middle" font-family="Arial" font-size="10">0.378</text>
+<text x="133.33" y="333" text-anchor="end" transform="rotate(-45 133.33 333)" font-family="Arial" font-size="10">full all transitions|deterministic</text>
+<rect x="197.13" y="307.62" width="65.73" height="7.38" fill="#2f6f8f"/>
+<text x="230.00" y="302.62" text-anchor="middle" font-family="Arial" font-size="10">0.027</text>
+<text x="230.00" y="333" text-anchor="end" transform="rotate(-45 230.00 333)" font-family="Arial" font-size="10">full all transitions|stochastic global residual</text>
+<rect x="293.80" y="271.65" width="65.73" height="43.35" fill="#2f6f8f"/>
+<text x="326.67" y="266.65" text-anchor="middle" font-family="Arial" font-size="10">0.161</text>
+<text x="326.67" y="333" text-anchor="end" transform="rotate(-45 326.67 333)" font-family="Arial" font-size="10">full all transitions|stochastic stage conditioned</text>
+<rect x="390.47" y="246.78" width="65.73" height="68.22" fill="#b56b2a"/>
+<text x="423.33" y="241.78" text-anchor="middle" font-family="Arial" font-size="10">0.253</text>
+<text x="423.33" y="333" text-anchor="end" transform="rotate(-45 423.33 333)" font-family="Arial" font-size="10">full all transitions|empirical 8cell morula noise fullfit</text>
+<rect x="487.13" y="74.13" width="65.73" height="240.87" fill="#b56b2a"/>
+<text x="520.00" y="69.13" text-anchor="middle" font-family="Arial" font-size="10">0.892</text>
+<text x="520.00" y="333" text-anchor="end" transform="rotate(-45 520.00 333)" font-family="Arial" font-size="10">full all transitions|basin ou calibrated</text>
+<rect x="583.80" y="303.00" width="65.73" height="12.00" fill="#2f6f8f"/>
+<text x="616.67" y="298.00" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="616.67" y="333" text-anchor="end" transform="rotate(-45 616.67 333)" font-family="Arial" font-size="10">leave morula transitions|deterministic</text>
+<rect x="680.47" y="308.64" width="65.73" height="6.36" fill="#2f6f8f"/>
+<text x="713.33" y="303.64" text-anchor="middle" font-family="Arial" font-size="10">0.024</text>
+<text x="713.33" y="333" text-anchor="end" transform="rotate(-45 713.33 333)" font-family="Arial" font-size="10">leave morula transitions|stochastic global residual</text>
+<rect x="777.13" y="291.99" width="65.73" height="23.01" fill="#2f6f8f"/>
+<text x="810.00" y="286.99" text-anchor="middle" font-family="Arial" font-size="10">0.085</text>
+<text x="810.00" y="333" text-anchor="end" transform="rotate(-45 810.00 333)" font-family="Arial" font-size="10">leave morula transitions|stochastic stage conditioned</text>
+<rect x="873.80" y="75.84" width="65.73" height="239.16" fill="#b56b2a"/>
+<text x="906.67" y="70.84" text-anchor="middle" font-family="Arial" font-size="10">0.886</text>
+<text x="906.67" y="333" text-anchor="end" transform="rotate(-45 906.67 333)" font-family="Arial" font-size="10">leave morula transitions|basin ou calibrated</text>
+<text x="85" y="440" font-family="Arial" font-size="12">Red guide: observed morula q90 basin occupancy = 0.875. Orange bars use morula distribution calibration.</text>
+</svg>

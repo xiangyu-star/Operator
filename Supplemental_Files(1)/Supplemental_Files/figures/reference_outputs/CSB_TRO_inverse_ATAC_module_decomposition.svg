@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="470" viewBox="0 0 980 470">
+<rect width="100%" height="100%" fill="white"/>
+<text x="100" y="28" font-family="Arial" font-size="18" font-weight="700">Inverse ATAC module decomposition</text>
+<line x1="100" y1="320" x2="950" y2="320" stroke="#222"/>
+<line x1="100" y1="45" x2="100" y2="320" stroke="#222"/>
+<line x1="100" y1="307.90" x2="950" y2="307.90" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="92" y="311.90" text-anchor="end" font-family="Arial" font-size="10">0.044</text>
+<line x1="100" y1="237.50" x2="950" y2="237.50" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="92" y="241.50" text-anchor="end" font-family="Arial" font-size="10">0.3</text>
+<line x1="100" y1="182.50" x2="950" y2="182.50" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="92" y="186.50" text-anchor="end" font-family="Arial" font-size="10">0.5</text>
+<line x1="100" y1="79.38" x2="950" y2="79.38" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="92" y="83.38" text-anchor="end" font-family="Arial" font-size="10">0.875</text>
+<line x1="100" y1="45.00" x2="950" y2="45.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="92" y="49.00" text-anchor="end" font-family="Arial" font-size="10">1</text>
+<rect x="111.54" y="45.00" width="37.64" height="275.00" fill="#8a8a8a"/>
+<text x="130.36" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="130.36" y="338" text-anchor="end" transform="rotate(-45 130.36 338)" font-family="Arial" font-size="9">cumulative M05+M01+M12</text>
+<rect x="172.25" y="63.33" width="37.64" height="256.67" fill="#8a8a8a"/>
+<text x="191.07" y="58.33" text-anchor="middle" font-family="Arial" font-size="10">0.933</text>
+<text x="191.07" y="338" text-anchor="end" transform="rotate(-45 191.07 338)" font-family="Arial" font-size="9">leave one out remove M02</text>
+<rect x="232.96" y="69.44" width="37.64" height="250.56" fill="#8a8a8a"/>
+<text x="251.79" y="64.44" text-anchor="middle" font-family="Arial" font-size="10">0.911</text>
+<text x="251.79" y="338" text-anchor="end" transform="rotate(-45 251.79 338)" font-family="Arial" font-size="9">cumulative M05+M01</text>
+<rect x="293.68" y="161.11" width="37.64" height="158.89" fill="#2c6f5a"/>
+<text x="312.50" y="156.11" text-anchor="middle" font-family="Arial" font-size="10">0.578</text>
+<text x="312.50" y="338" text-anchor="end" transform="rotate(-45 312.50 338)" font-family="Arial" font-size="9">cumulative M05+M01+M12+M02</text>
+<rect x="354.39" y="161.11" width="37.64" height="158.89" fill="#2c6f5a"/>
+<text x="373.21" y="156.11" text-anchor="middle" font-family="Arial" font-size="10">0.578</text>
+<text x="373.21" y="338" text-anchor="end" transform="rotate(-45 373.21 338)" font-family="Arial" font-size="9">leave one out remove M10</text>
+<rect x="415.11" y="161.11" width="37.64" height="158.89" fill="#8a8a8a"/>
+<text x="433.93" y="156.11" text-anchor="middle" font-family="Arial" font-size="10">0.578</text>
+<text x="433.93" y="338" text-anchor="end" transform="rotate(-45 433.93 338)" font-family="Arial" font-size="9">cumulative M05</text>
+<rect x="475.82" y="161.11" width="37.64" height="158.89" fill="#8a8a8a"/>
+<text x="494.64" y="156.11" text-anchor="middle" font-family="Arial" font-size="10">0.578</text>
+<text x="494.64" y="338" text-anchor="end" transform="rotate(-45 494.64 338)" font-family="Arial" font-size="9">single M05</text>
+<rect x="536.54" y="179.44" width="37.64" height="140.56" fill="#2c6f5a"/>
+<text x="555.36" y="174.44" text-anchor="middle" font-family="Arial" font-size="10">0.511</text>
+<text x="555.36" y="338" text-anchor="end" transform="rotate(-45 555.36 338)" font-family="Arial" font-size="9">all priority modules</text>
+<rect x="597.25" y="203.89" width="37.64" height="116.11" fill="#8a8a8a"/>
+<text x="616.07" y="198.89" text-anchor="middle" font-family="Arial" font-size="10">0.422</text>
+<text x="616.07" y="338" text-anchor="end" transform="rotate(-45 616.07 338)" font-family="Arial" font-size="9">single M01</text>
+<rect x="657.96" y="234.44" width="37.64" height="85.56" fill="#2c6f5a"/>
+<text x="676.79" y="229.44" text-anchor="middle" font-family="Arial" font-size="10">0.311</text>
+<text x="676.79" y="338" text-anchor="end" transform="rotate(-45 676.79 338)" font-family="Arial" font-size="9">leave one out remove M12</text>
+<rect x="718.68" y="252.78" width="37.64" height="67.22" fill="#8a8a8a"/>
+<text x="737.50" y="247.78" text-anchor="middle" font-family="Arial" font-size="10">0.244</text>
+<text x="737.50" y="338" text-anchor="end" transform="rotate(-45 737.50 338)" font-family="Arial" font-size="9">single M12</text>
+<rect x="779.39" y="258.89" width="37.64" height="61.11" fill="#2c6f5a"/>
+<text x="798.21" y="253.89" text-anchor="middle" font-family="Arial" font-size="10">0.222</text>
+<text x="798.21" y="338" text-anchor="end" transform="rotate(-45 798.21 338)" font-family="Arial" font-size="9">leave one out remove M01</text>
+<rect x="840.11" y="307.78" width="37.64" height="12.22" fill="#2c6f5a"/>
+<text x="858.93" y="302.78" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="858.93" y="338" text-anchor="end" transform="rotate(-45 858.93 338)" font-family="Arial" font-size="9">leave one out remove M05</text>
+<rect x="900.82" y="307.78" width="37.64" height="12.22" fill="#2c6f5a"/>
+<text x="919.64" y="302.78" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="919.64" y="338" text-anchor="end" transform="rotate(-45 919.64 338)" font-family="Arial" font-size="9">single M02</text>
+<text x="100" y="448" font-family="Arial" font-size="12">Green bars include M02; red guides mark methylation baseline and observed morula occupancy.</text>
+</svg>

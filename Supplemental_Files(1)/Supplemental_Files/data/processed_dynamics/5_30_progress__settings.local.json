@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://www.sciencedirect.com/science/article/pii/S1534580725001480\" -o /tmp/blastoid_paper.html)",
+      "Bash(python3 -c ' *)",
+      "WebSearch"
+    ]
+  }
+}

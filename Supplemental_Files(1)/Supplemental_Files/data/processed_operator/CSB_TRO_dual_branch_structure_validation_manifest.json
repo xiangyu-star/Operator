@@ -1,0 +1,13 @@
+{
+  "status": "completed",
+  "source_feature_set": "ATAC_8cell_3pn_chromatin_only_inverse",
+  "outputs": [
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_dual_branch_beta_grid.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_dual_branch_module_order.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_all_module_sign_patterns.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_dual_branch_structure_validation_summary.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\figures\\CSB_TRO_dual_branch_beta_grid_occupancy.svg",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\figures\\CSB_TRO_dual_branch_beta_grid_cosine.svg",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\docs\\CSB_TRO_dual_branch_structure_validation_summary.md"
+  ]
+}

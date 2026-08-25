@@ -1,0 +1,15 @@
+{
+  "n_samples": 169,
+  "n_dmrs": 156,
+  "n_sample_pairs": 3705,
+  "morula_prediction_rmse": 0.3113339361592326,
+  "blastocyst_prediction_rmse": 0.2814572117769384,
+  "operator_fit_morula_rmse": 0.12230154347570678,
+  "operator_fit_blastocyst_rmse": 0.09450179032715499,
+  "outputs": {
+    "matrix": "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_DMR_state_matrix.tsv",
+    "training_pairs": "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_OT_transition_training_pairs.tsv",
+    "model": "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_velocity_model_coefficients.tsv",
+    "ranking": "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_dynamic_DMR_ranking.tsv"
+  }
+}

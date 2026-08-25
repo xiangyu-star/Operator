@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="90" y="32" font-family="Arial" font-size="20" font-weight="700">Strict leave-morula-out validation</text>
+<line x1="90" y1="365" x2="870" y2="365" stroke="#222"/>
+<line x1="90" y1="55" x2="90" y2="365" stroke="#222"/>
+<text x="18" y="210.0" transform="rotate(-90 18 210.0)" font-family="Arial" font-size="13">RMSE</text>
+<line x1="86" y1="365.00" x2="90" y2="365.00" stroke="#222"/>
+<text x="82" y="369.00" text-anchor="end" font-family="Arial" font-size="11">0.00</text>
+<line x1="86" y1="287.50" x2="90" y2="287.50" stroke="#222"/>
+<text x="82" y="291.50" text-anchor="end" font-family="Arial" font-size="11">0.08</text>
+<line x1="86" y1="210.00" x2="90" y2="210.00" stroke="#222"/>
+<text x="82" y="214.00" text-anchor="end" font-family="Arial" font-size="11">0.17</text>
+<line x1="86" y1="132.50" x2="90" y2="132.50" stroke="#222"/>
+<text x="82" y="136.50" text-anchor="end" font-family="Arial" font-size="11">0.25</text>
+<line x1="86" y1="55.00" x2="90" y2="55.00" stroke="#222"/>
+<text x="82" y="59.00" text-anchor="end" font-family="Arial" font-size="11">0.34</text>
+<rect x="165.40" y="90.54" width="109.20" height="274.46" fill="#777777"/>
+<line x1="220.00" y1="43.97" x2="220.00" y2="136.75" stroke="#111" stroke-width="1.5"/>
+<line x1="213.00" y1="43.97" x2="227.00" y2="43.97" stroke="#111"/>
+<line x1="213.00" y1="136.75" x2="227.00" y2="136.75" stroke="#111"/>
+<text x="220.00" y="83.54" text-anchor="middle" font-family="Arial" font-size="11">0.297</text>
+<text x="220.00" y="383" text-anchor="end" transform="rotate(-32 220.00 383)" font-family="Arial" font-size="11">8-cell_baseline</text>
+<rect x="425.40" y="100.56" width="109.20" height="264.44" fill="#5b8f58"/>
+<line x1="480.00" y1="54.29" x2="480.00" y2="148.49" stroke="#111" stroke-width="1.5"/>
+<line x1="473.00" y1="54.29" x2="487.00" y2="54.29" stroke="#111"/>
+<line x1="473.00" y1="148.49" x2="487.00" y2="148.49" stroke="#111"/>
+<text x="480.00" y="93.56" text-anchor="middle" font-family="Arial" font-size="11">0.287</text>
+<text x="480.00" y="383" text-anchor="end" transform="rotate(-32 480.00 383)" font-family="Arial" font-size="11">DMR_module_ridge_k16</text>
+<rect x="685.40" y="116.00" width="109.20" height="249.00" fill="#3b76a8"/>
+<line x1="740.00" y1="70.54" x2="740.00" y2="161.35" stroke="#111" stroke-width="1.5"/>
+<line x1="733.00" y1="70.54" x2="747.00" y2="70.54" stroke="#111"/>
+<line x1="733.00" y1="161.35" x2="747.00" y2="161.35" stroke="#111"/>
+<text x="740.00" y="109.00" text-anchor="middle" font-family="Arial" font-size="11">0.270</text>
+<text x="740.00" y="383" text-anchor="end" transform="rotate(-32 740.00 383)" font-family="Arial" font-size="11">latent_PCA_ridge_q3</text>
+<text x="90" y="470" font-family="Arial" font-size="12">Error bars: DMR bootstrap 95% CI. Null model summaries are reported in the TSV outputs.</text>
+</svg>

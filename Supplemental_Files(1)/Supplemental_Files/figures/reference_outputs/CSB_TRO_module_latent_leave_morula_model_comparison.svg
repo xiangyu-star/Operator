@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="80" y="30" font-family="Arial" font-size="20" font-weight="700">Leave-morula-out model comparison</text>
+<line x1="80" y1="315" x2="730" y2="315" stroke="#222"/>
+<line x1="80" y1="50" x2="80" y2="315" stroke="#222"/>
+<rect x="110.88" y="104.03" width="100.75" height="210.97" fill="#999999"/>
+<text x="161.25" y="98.03" text-anchor="middle" font-family="Arial" font-size="11">0.297</text>
+<text x="161.25" y="333" text-anchor="end" transform="rotate(-30 161.25 333)" font-family="Arial" font-size="11">8-cell_baseline</text>
+<rect x="273.38" y="94.17" width="100.75" height="220.83" fill="#999999"/>
+<text x="323.75" y="88.17" text-anchor="middle" font-family="Arial" font-size="11">0.311</text>
+<text x="323.75" y="333" text-anchor="end" transform="rotate(-30 323.75 333)" font-family="Arial" font-size="11">single_DMR_ridge</text>
+<rect x="435.88" y="111.73" width="100.75" height="203.27" fill="#6c8f43"/>
+<text x="486.25" y="105.73" text-anchor="middle" font-family="Arial" font-size="11">0.287</text>
+<text x="486.25" y="333" text-anchor="end" transform="rotate(-30 486.25 333)" font-family="Arial" font-size="11">DMR_module_ridge_k16</text>
+<rect x="598.38" y="123.60" width="100.75" height="191.40" fill="#3c78a8"/>
+<text x="648.75" y="117.60" text-anchor="middle" font-family="Arial" font-size="11">0.270</text>
+<text x="648.75" y="333" text-anchor="end" transform="rotate(-30 648.75 333)" font-family="Arial" font-size="11">latent_PCA_ridge_q3</text>
+</svg>

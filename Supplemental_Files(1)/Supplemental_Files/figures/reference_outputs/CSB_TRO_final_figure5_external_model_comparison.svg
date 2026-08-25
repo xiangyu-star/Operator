@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="28" font-family="Arial" font-size="18" font-weight="700">External model comparison</text>
+<text x="298" y="63" text-anchor="end" font-family="Arial" font-size="12">global RNA transition</text>
+<rect x="310" y="45" width="150.0" height="22" fill="#777"/>
+<text x="466.0" y="61" font-family="Arial" font-size="12">0.200</text>
+<text x="298" y="97" text-anchor="end" font-family="Arial" font-size="12">nearest/module-linked RNA</text>
+<rect x="310" y="79" width="150.0" height="22" fill="#777"/>
+<text x="466.0" y="95" font-family="Arial" font-size="12">0.200</text>
+<text x="298" y="131" text-anchor="end" font-family="Arial" font-size="12">ATAC/TF/RNA branch-bound surrogate</text>
+<rect x="310" y="113" width="150.0" height="22" fill="#777"/>
+<text x="466.0" y="129" font-family="Arial" font-size="12">0.200</text>
+<text x="298" y="165" text-anchor="end" font-family="Arial" font-size="12">strict morula-entry partial histone</text>
+<rect x="310" y="147" width="150.0" height="22" fill="#245c7a"/>
+<text x="466.0" y="163" font-family="Arial" font-size="12">0.200</text>
+<text x="298" y="199" text-anchor="end" font-family="Arial" font-size="12">motif x TF</text>
+<rect x="310" y="181" width="166.7" height="22" fill="#777"/>
+<text x="482.7" y="197" font-family="Arial" font-size="12">0.222</text>
+<text x="298" y="233" text-anchor="end" font-family="Arial" font-size="12">hESC histone branch identity proxy</text>
+<rect x="310" y="215" width="383.3" height="22" fill="#245c7a"/>
+<text x="699.3" y="231" font-family="Arial" font-size="12">0.511</text>
+<text x="298" y="267" text-anchor="end" font-family="Arial" font-size="12">public embryo histone diagnostic contrast</text>
+<rect x="310" y="249" width="733.3" height="22" fill="#245c7a"/>
+<text x="1049.3" y="265" font-family="Arial" font-size="12">0.978</text>
+<text x="298" y="301" text-anchor="end" font-family="Arial" font-size="12">measured correction upper bound</text>
+<rect x="310" y="283" width="750.0" height="22" fill="#777"/>
+<text x="1066.0" y="299" font-family="Arial" font-size="12">1.000</text>
+<text x="298" y="335" text-anchor="end" font-family="Arial" font-size="12">single/ordered inverse ATAC module proxy</text>
+<rect x="310" y="317" width="750.0" height="22" fill="#777"/>
+<text x="1066.0" y="333" font-family="Arial" font-size="12">1.000</text>
+<text x="298" y="369" text-anchor="end" font-family="Arial" font-size="12">dual-branch chromatin-state proxy</text>
+<rect x="310" y="351" width="750.0" height="22" fill="#245c7a"/>
+<text x="1066.0" y="367" font-family="Arial" font-size="12">1.000</text>
+</svg>

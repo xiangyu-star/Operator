@@ -1,0 +1,13 @@
+{
+  "analysis_status": "not_run_missing_histone_input",
+  "reason": "No local H3K27ac/H3K4me3 peak BED files are present at the manifest paths.",
+  "missing_tracks": [
+    "H3K27ac_8cell",
+    "H3K27ac_morula",
+    "H3K27ac_blastocyst",
+    "H3K4me3_8cell",
+    "H3K4me3_morula",
+    "H3K4me3_blastocyst"
+  ],
+  "manifest": "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\external\\histone\\histone_peak_manifest.tsv"
+}

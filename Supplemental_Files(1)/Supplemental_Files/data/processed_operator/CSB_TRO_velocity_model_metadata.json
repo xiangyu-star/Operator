@@ -1,0 +1,14 @@
+{
+  "model": "per-DMR weighted ridge regression",
+  "features": [
+    "intercept",
+    "tau",
+    "m_j",
+    "A",
+    "P",
+    "Hm",
+    "Hr"
+  ],
+  "ridge_lambda": 50.0,
+  "equation": "v_j = beta0 + beta1*tau + beta2*m_j + beta3*A + beta4*P + beta5*Hm + beta6*Hr"
+}

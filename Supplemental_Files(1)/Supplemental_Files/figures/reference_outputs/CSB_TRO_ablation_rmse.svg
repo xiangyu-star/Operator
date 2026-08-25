@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="90" y="30" font-family="Arial" font-size="20" font-weight="700">DMR-level prediction and null/ablation RMSE</text>
+<line x1="90" y1="350" x2="790" y2="350" stroke="#222"/>
+<line x1="90" y1="50" x2="90" y2="350" stroke="#222"/>
+<text x="22" y="230.0" transform="rotate(-90 22 230.0)" font-family="Arial" font-size="13">RMSE</text>
+<rect x="112.40" y="126.83" width="95.20" height="223.17" fill="#4777b3"/>
+<text x="160.00" y="120.83" text-anchor="middle" font-family="Arial" font-size="11">0.311</text>
+<text x="160.00" y="368" text-anchor="end" transform="rotate(-35 160.00 368)" font-family="Arial" font-size="11">main_model</text>
+<rect x="252.40" y="148.25" width="95.20" height="201.75" fill="#4777b3"/>
+<text x="300.00" y="142.25" text-anchor="middle" font-family="Arial" font-size="11">0.281</text>
+<text x="300.00" y="368" text-anchor="end" transform="rotate(-35 300.00 368)" font-family="Arial" font-size="11">main_model</text>
+<rect x="392.40" y="124.12" width="95.20" height="225.88" fill="#4777b3"/>
+<text x="440.00" y="118.12" text-anchor="middle" font-family="Arial" font-size="11">0.315</text>
+<text x="440.00" y="368" text-anchor="end" transform="rotate(-35 440.00 368)" font-family="Arial" font-size="11">random_tau_null</text>
+<rect x="532.40" y="144.21" width="95.20" height="205.79" fill="#4777b3"/>
+<text x="580.00" y="138.21" text-anchor="middle" font-family="Arial" font-size="11">0.287</text>
+<text x="580.00" y="368" text-anchor="end" transform="rotate(-35 580.00 368)" font-family="Arial" font-size="11">random_coupling_null</text>
+<rect x="672.40" y="89.13" width="95.20" height="260.87" fill="#4777b3"/>
+<text x="720.00" y="83.13" text-anchor="middle" font-family="Arial" font-size="11">0.364</text>
+<text x="720.00" y="368" text-anchor="end" transform="rotate(-35 720.00 368)" font-family="Arial" font-size="11">stage_mean_previous_velocity_baseline</text>
+</svg>

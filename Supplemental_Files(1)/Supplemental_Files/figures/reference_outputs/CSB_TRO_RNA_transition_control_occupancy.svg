@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="450" viewBox="0 0 980 450">
+<rect width="100%" height="100%" fill="white"/>
+<text x="80" y="28" font-family="Arial" font-size="18" font-weight="700">Candidate biological control models: occupancy rescue</text>
+<line x1="80" y1="310" x2="955" y2="310" stroke="#222"/>
+<line x1="80" y1="45" x2="80" y2="310" stroke="#222"/>
+<line x1="80" y1="310.00" x2="955" y2="310.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="72" y="314.00" text-anchor="end" font-family="Arial" font-size="11">0</text>
+<line x1="80" y1="243.75" x2="955" y2="243.75" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="72" y="247.75" text-anchor="end" font-family="Arial" font-size="11">0.25</text>
+<line x1="80" y1="177.50" x2="955" y2="177.50" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="72" y="181.50" text-anchor="end" font-family="Arial" font-size="11">0.5</text>
+<line x1="80" y1="111.25" x2="955" y2="111.25" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="72" y="115.25" text-anchor="end" font-family="Arial" font-size="11">0.75</text>
+<line x1="80" y1="78.12" x2="955" y2="78.12" stroke="#b33" stroke-dasharray="4 4"/>
+<text x="72" y="82.12" text-anchor="end" font-family="Arial" font-size="11">0.875</text>
+<line x1="80" y1="45.00" x2="955" y2="45.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="72" y="49.00" text-anchor="end" font-family="Arial" font-size="11">1</text>
+<rect x="93.92" y="45.00" width="51.70" height="265.00" fill="#b56b2a"/>
+<text x="119.77" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="119.77" y="328" text-anchor="end" transform="rotate(-45 119.77 328)" font-family="Arial" font-size="9">measured missing correction upper bound</text>
+<rect x="173.47" y="45.00" width="51.70" height="265.00" fill="#b56b2a"/>
+<text x="199.32" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="199.32" y="328" text-anchor="end" transform="rotate(-45 199.32 328)" font-family="Arial" font-size="9">RNA ridge beta diagnostic</text>
+<rect x="253.01" y="45.00" width="51.70" height="265.00" fill="#b56b2a"/>
+<text x="278.86" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="278.86" y="328" text-anchor="end" transform="rotate(-45 278.86 328)" font-family="Arial" font-size="9">combined external ridge beta diagnostic</text>
+<rect x="332.56" y="45.00" width="51.70" height="265.00" fill="#b56b2a"/>
+<text x="358.41" y="40.00" text-anchor="middle" font-family="Arial" font-size="10">1.000</text>
+<text x="358.41" y="328" text-anchor="end" transform="rotate(-45 358.41 328)" font-family="Arial" font-size="9">all available ridge beta diagnostic</text>
+<rect x="412.10" y="257.00" width="51.70" height="53.00" fill="#b56b2a"/>
+<text x="437.95" y="252.00" text-anchor="middle" font-family="Arial" font-size="10">0.200</text>
+<text x="437.95" y="328" text-anchor="end" transform="rotate(-45 437.95 328)" font-family="Arial" font-size="9">RNA unit beta</text>
+<rect x="491.65" y="257.00" width="51.70" height="53.00" fill="#b56b2a"/>
+<text x="517.50" y="252.00" text-anchor="middle" font-family="Arial" font-size="10">0.200</text>
+<text x="517.50" y="328" text-anchor="end" transform="rotate(-45 517.50 328)" font-family="Arial" font-size="9">combined external unit beta</text>
+<rect x="571.19" y="257.00" width="51.70" height="53.00" fill="#b56b2a"/>
+<text x="597.05" y="252.00" text-anchor="middle" font-family="Arial" font-size="10">0.200</text>
+<text x="597.05" y="328" text-anchor="end" transform="rotate(-45 597.05 328)" font-family="Arial" font-size="9">all available unit beta</text>
+<rect x="650.74" y="298.22" width="51.70" height="11.78" fill="#b56b2a"/>
+<text x="676.59" y="293.22" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="676.59" y="328" text-anchor="end" transform="rotate(-45 676.59 328)" font-family="Arial" font-size="9">methylation only strict baseline</text>
+<rect x="730.28" y="310.00" width="51.70" height="0.00" fill="#b56b2a"/>
+<text x="756.14" y="305.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="756.14" y="328" text-anchor="end" transform="rotate(-45 756.14 328)" font-family="Arial" font-size="9">RNA unit beta sign flip</text>
+<rect x="809.83" y="310.00" width="51.70" height="0.00" fill="#b56b2a"/>
+<text x="835.68" y="305.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="835.68" y="328" text-anchor="end" transform="rotate(-45 835.68 328)" font-family="Arial" font-size="9">combined external unit beta sign flip</text>
+<rect x="889.38" y="310.00" width="51.70" height="0.00" fill="#b56b2a"/>
+<text x="915.23" y="305.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="915.23" y="328" text-anchor="end" transform="rotate(-45 915.23 328)" font-family="Arial" font-size="9">all available unit beta sign flip</text>
+<text x="80" y="430" font-family="Arial" font-size="12">Blue: feature-defined beta. Orange: diagnostic beta fit to measured correction, not non-leaking.</text>
+</svg>

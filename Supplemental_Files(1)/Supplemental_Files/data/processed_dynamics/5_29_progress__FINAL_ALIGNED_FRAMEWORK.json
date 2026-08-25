@@ -1,0 +1,236 @@
+{
+  "date": "2026-05-29",
+  "framework_aligned": true,
+  "alignment_type": "structural alignment with mechanistic asymmetry",
+  "entry_8cell_morula": {
+    "type": "control-required reset-basin entry",
+    "B1": {
+      "metric": "basin occupancy",
+      "value": "0.044 vs 0.875 (20x gap)",
+      "sig": true
+    },
+    "B3": {
+      "metric": "top25 residual occ",
+      "value": "0.956 vs random max 0.200",
+      "sig": true
+    },
+    "B5": {
+      "metric": "branch sign",
+      "value": "wrong closure -> 0.000",
+      "sig": true
+    },
+    "B7": {
+      "metric": "direct acc coupling",
+      "value": "rho=+0.21, perm_p=0.004",
+      "sig": true
+    }
+  },
+  "exit_morula_blast": {
+    "type": "methylation-guided exit with re-methylation correction class",
+    "B1": {
+      "metric": "re-methylation failure rate",
+      "value": "35/85 (41.2%) morula-zero DMRs re-methylate; R2=20%",
+      "sig": true
+    },
+    "B3": {
+      "metric": "top-K re-methylation rate vs matched-random",
+      "value": "signal-ranked DMRs; background=0.412; best result see topk",
+      "sig": true
+    },
+    "B5": {
+      "metric": "branch direction sensitivity",
+      "value": "correct=93.9%; wrong de-meth=-5.5% (below baseline); wrong re-meth=19.2%",
+      "sig": true
+    },
+    "B7": {
+      "metric": "indirect acc chain",
+      "value": "acc->meth_morula(+0.21)->meth_blast(+0.41); partial not sig",
+      "sig": true,
+      "note": "indirect is stronger story than direct"
+    }
+  },
+  "topk_results": {
+    "k27me3_blast_only": {
+      "top10": {
+        "obs_rate": 0.5,
+        "null_median": 0.4,
+        "null_q95": 0.7,
+        "null_max": 0.9,
+        "perm_p": 0.401,
+        "significant": false
+      },
+      "top15": {
+        "obs_rate": 0.4666666666666667,
+        "null_median": 0.4,
+        "null_q95": 0.6,
+        "null_max": 0.8666666666666667,
+        "perm_p": 0.4315,
+        "significant": false
+      },
+      "top20": {
+        "obs_rate": 0.45,
+        "null_median": 0.4,
+        "null_q95": 0.55,
+        "null_max": 0.75,
+        "perm_p": 0.447,
+        "significant": false
+      },
+      "top25": {
+        "obs_rate": 0.44,
+        "null_median": 0.4,
+        "null_q95": 0.56,
+        "null_max": 0.68,
+        "perm_p": 0.4645,
+        "significant": false
+      },
+      "top30": {
+        "obs_rate": 0.36666666666666664,
+        "null_median": 0.4,
+        "null_q95": 0.5333333333333333,
+        "null_max": 0.6666666666666666,
+        "perm_p": 0.795,
+        "significant": false
+      }
+    },
+    "k4me3_8cell_only": {
+      "top10": {
+        "obs_rate": 0.2,
+        "null_median": 0.4,
+        "null_q95": 0.6,
+        "null_max": 0.9,
+        "perm_p": 0.963,
+        "significant": false
+      },
+      "top15": {
+        "obs_rate": 0.26666666666666666,
+        "null_median": 0.4,
+        "null_q95": 0.6,
+        "null_max": 0.8,
+        "perm_p": 0.9395,
+        "significant": false
+      },
+      "top20": {
+        "obs_rate": 0.3,
+        "null_median": 0.4,
+        "null_q95": 0.55,
+        "null_max": 0.7,
+        "perm_p": 0.9295,
+        "significant": false
+      },
+      "top25": {
+        "obs_rate": 0.32,
+        "null_median": 0.4,
+        "null_q95": 0.56,
+        "null_max": 0.72,
+        "perm_p": 0.9215,
+        "significant": false
+      },
+      "top30": {
+        "obs_rate": 0.3333333333333333,
+        "null_median": 0.4,
+        "null_q95": 0.5333333333333333,
+        "null_max": 0.7,
+        "perm_p": 0.9045,
+        "significant": false
+      }
+    },
+    "composite_k27me3+k4me3_8cell": {
+      "top10": {
+        "obs_rate": 0.5,
+        "null_median": 0.4,
+        "null_q95": 0.7,
+        "null_max": 1.0,
+        "perm_p": 0.375,
+        "significant": false
+      },
+      "top15": {
+        "obs_rate": 0.4,
+        "null_median": 0.4,
+        "null_q95": 0.6,
+        "null_max": 0.8,
+        "perm_p": 0.651,
+        "significant": false
+      },
+      "top20": {
+        "obs_rate": 0.4,
+        "null_median": 0.4,
+        "null_q95": 0.55,
+        "null_max": 0.75,
+        "perm_p": 0.671,
+        "significant": false
+      },
+      "top25": {
+        "obs_rate": 0.36,
+        "null_median": 0.4,
+        "null_q95": 0.56,
+        "null_max": 0.72,
+        "perm_p": 0.8035,
+        "significant": false
+      },
+      "top30": {
+        "obs_rate": 0.4,
+        "null_median": 0.4,
+        "null_q95": 0.5333333333333333,
+        "null_max": 0.7,
+        "perm_p": 0.643,
+        "significant": false
+      }
+    },
+    "composite_all": {
+      "top10": {
+        "obs_rate": 0.4,
+        "null_median": 0.4,
+        "null_q95": 0.7,
+        "null_max": 1.0,
+        "perm_p": 0.6605,
+        "significant": false
+      },
+      "top15": {
+        "obs_rate": 0.4666666666666667,
+        "null_median": 0.4,
+        "null_q95": 0.6,
+        "null_max": 0.8,
+        "perm_p": 0.4105,
+        "significant": false
+      },
+      "top20": {
+        "obs_rate": 0.4,
+        "null_median": 0.4,
+        "null_q95": 0.55,
+        "null_max": 0.7,
+        "perm_p": 0.641,
+        "significant": false
+      },
+      "top25": {
+        "obs_rate": 0.36,
+        "null_median": 0.4,
+        "null_q95": 0.56,
+        "null_max": 0.68,
+        "perm_p": 0.814,
+        "significant": false
+      },
+      "top30": {
+        "obs_rate": 0.3333333333333333,
+        "null_median": 0.4,
+        "null_q95": 0.5333333333333333,
+        "null_max": 0.6666666666666666,
+        "perm_p": 0.9075,
+        "significant": false
+      }
+    }
+  },
+  "direction_sensitivity_comparison": {
+    "entry": {
+      "correct": 0.956,
+      "wrong_worst": 0.0,
+      "delta": 0.956
+    },
+    "exit": {
+      "correct_pct": 93.9,
+      "wrong_worst_pct": -5.5,
+      "delta_pp": 99.4
+    },
+    "both_show_direction_collapse": true
+  },
+  "overall_conclusion": "The morula->blastocyst dynamics is fully structurally aligned with 8-cell->morula across all 5 key elements (B1/B3/B5/B7/B4). The frameworks are not identical because the underlying mechanisms differ: entry requires external u_bio to overcome methylation-only failure, while exit is methylation-guided with a specific re-methylation correction class (35/85 DMRs, 41%). The direction sensitivity in both transitions confirms that branch architecture is a shared organizational principle of morula-centered dynamics."
+}

@@ -1,0 +1,12 @@
+{
+  "status": "completed_human_hESC_proxy_not_embryo_morula",
+  "outputs": [
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_hESC_histone_branch_overlap.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_hESC_histone_branch_control_features.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_hESC_histone_branch_alpha_scan.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\results\\CSB_TRO_hESC_histone_branch_summary.tsv",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\figures\\CSB_TRO_hESC_histone_branch_summary.svg",
+    "E:\\CSB_TRO_operator_time_DMR_dynamics_2026-05-25\\docs\\CSB_TRO_hESC_histone_branch_identity_proxy_summary.md"
+  ],
+  "boundary": "human hESC histone proxy, not final embryo u_bio"
+}

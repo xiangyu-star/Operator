@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="28" font-family="Arial" font-size="18" font-weight="700">Full correction alpha scan</text>
+<line x1="70" y1="360" x2="830" y2="360" stroke="#222"/>
+<line x1="70" y1="45" x2="70" y2="360" stroke="#222"/>
+<line x1="70" y1="360.00" x2="830" y2="360.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="62" y="364.00" text-anchor="end" font-family="Arial" font-size="11">0</text>
+<line x1="70" y1="281.25" x2="830" y2="281.25" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="62" y="285.25" text-anchor="end" font-family="Arial" font-size="11">0.25</text>
+<line x1="70" y1="202.50" x2="830" y2="202.50" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="62" y="206.50" text-anchor="end" font-family="Arial" font-size="11">0.5</text>
+<line x1="70" y1="123.75" x2="830" y2="123.75" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="62" y="127.75" text-anchor="end" font-family="Arial" font-size="11">0.75</text>
+<line x1="70" y1="84.38" x2="830" y2="84.38" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="62" y="88.38" text-anchor="end" font-family="Arial" font-size="11">0.875</text>
+<line x1="70" y1="45.00" x2="830" y2="45.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="62" y="49.00" text-anchor="end" font-family="Arial" font-size="11">1</text>
+<polyline points="70.00,346.00 95.33,346.00 120.67,318.00 146.00,283.00 171.33,255.00 196.67,227.00 222.00,206.00 247.33,199.00 272.67,150.00 298.00,115.00 323.33,66.00 348.67,59.00 374.00,59.00 399.33,59.00 424.67,59.00 450.00,52.00 475.33,52.00 500.67,45.00 526.00,45.00 551.33,45.00 576.67,45.00 602.00,52.00 627.33,52.00 652.67,52.00 678.00,52.00 703.33,59.00 728.67,59.00 754.00,66.00 779.33,73.00 804.67,80.00 830.00,101.00" fill="none" stroke="#245c7a" stroke-width="2.5"/>
+<circle cx="70.00" cy="346.00" r="2.8" fill="#245c7a"/>
+<circle cx="95.33" cy="346.00" r="2.8" fill="#245c7a"/>
+<circle cx="120.67" cy="318.00" r="2.8" fill="#245c7a"/>
+<circle cx="146.00" cy="283.00" r="2.8" fill="#245c7a"/>
+<circle cx="171.33" cy="255.00" r="2.8" fill="#245c7a"/>
+<circle cx="196.67" cy="227.00" r="2.8" fill="#245c7a"/>
+<circle cx="222.00" cy="206.00" r="2.8" fill="#245c7a"/>
+<circle cx="247.33" cy="199.00" r="2.8" fill="#245c7a"/>
+<circle cx="272.67" cy="150.00" r="2.8" fill="#245c7a"/>
+<circle cx="298.00" cy="115.00" r="2.8" fill="#245c7a"/>
+<circle cx="323.33" cy="66.00" r="2.8" fill="#245c7a"/>
+<circle cx="348.67" cy="59.00" r="2.8" fill="#245c7a"/>
+<circle cx="374.00" cy="59.00" r="2.8" fill="#245c7a"/>
+<circle cx="399.33" cy="59.00" r="2.8" fill="#245c7a"/>
+<circle cx="424.67" cy="59.00" r="2.8" fill="#245c7a"/>
+<circle cx="450.00" cy="52.00" r="2.8" fill="#245c7a"/>
+<circle cx="475.33" cy="52.00" r="2.8" fill="#245c7a"/>
+<circle cx="500.67" cy="45.00" r="2.8" fill="#245c7a"/>
+<circle cx="526.00" cy="45.00" r="2.8" fill="#245c7a"/>
+<circle cx="551.33" cy="45.00" r="2.8" fill="#245c7a"/>
+<circle cx="576.67" cy="45.00" r="2.8" fill="#245c7a"/>
+<circle cx="602.00" cy="52.00" r="2.8" fill="#245c7a"/>
+<circle cx="627.33" cy="52.00" r="2.8" fill="#245c7a"/>
+<circle cx="652.67" cy="52.00" r="2.8" fill="#245c7a"/>
+<circle cx="678.00" cy="52.00" r="2.8" fill="#245c7a"/>
+<circle cx="703.33" cy="59.00" r="2.8" fill="#245c7a"/>
+<circle cx="728.67" cy="59.00" r="2.8" fill="#245c7a"/>
+<circle cx="754.00" cy="66.00" r="2.8" fill="#245c7a"/>
+<circle cx="779.33" cy="73.00" r="2.8" fill="#245c7a"/>
+<circle cx="804.67" cy="80.00" r="2.8" fill="#245c7a"/>
+<circle cx="830.00" cy="101.00" r="2.8" fill="#245c7a"/>
+<text x="70" y="408" font-family="Arial" font-size="12">Occupancy q90 vs alpha. Red guide is observed morula occupancy.</text>
+</svg>

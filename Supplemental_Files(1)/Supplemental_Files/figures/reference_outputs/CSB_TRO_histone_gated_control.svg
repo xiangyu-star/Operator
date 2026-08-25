@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="430" viewBox="0 0 940 430">
+<rect width="100%" height="100%" fill="white"/>
+<text x="80" y="28" font-family="Arial" font-size="18" font-weight="700">Histone-state control models</text>
+<line x1="80" y1="285" x2="910" y2="285" stroke="#222"/>
+<line x1="80" y1="45" x2="80" y2="285" stroke="#222"/>
+<line x1="80" y1="274.44" x2="910" y2="274.44" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="72" y="278.44" text-anchor="end" font-family="Arial" font-size="10">0.044</text>
+<line x1="80" y1="213.00" x2="910" y2="213.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="72" y="217.00" text-anchor="end" font-family="Arial" font-size="10">0.3</text>
+<line x1="80" y1="165.00" x2="910" y2="165.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="72" y="169.00" text-anchor="end" font-family="Arial" font-size="10">0.5</text>
+<line x1="80" y1="75.00" x2="910" y2="75.00" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="72" y="79.00" text-anchor="end" font-family="Arial" font-size="10">0.875</text>
+<line x1="80" y1="45.00" x2="910" y2="45.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="72" y="49.00" text-anchor="end" font-family="Arial" font-size="10">1</text>
+<rect x="93.14" y="231.67" width="42.88" height="53.33" fill="#6f4d8b"/>
+<text x="114.58" y="226.67" text-anchor="middle" font-family="Arial" font-size="10">0.222</text>
+<text x="114.58" y="303" text-anchor="end" transform="rotate(-45 114.58 303)" font-family="Arial" font-size="9">motif TF x H3K27ac 8cell histone only</text>
+<rect x="162.31" y="231.67" width="42.88" height="53.33" fill="#6f4d8b"/>
+<text x="183.75" y="226.67" text-anchor="middle" font-family="Arial" font-size="10">0.222</text>
+<text x="183.75" y="303" text-anchor="end" transform="rotate(-45 183.75 303)" font-family="Arial" font-size="9">motif TF x H3K27ac blastocyst histone only</text>
+<rect x="231.48" y="231.67" width="42.88" height="53.33" fill="#6f4d8b"/>
+<text x="252.92" y="226.67" text-anchor="middle" font-family="Arial" font-size="10">0.222</text>
+<text x="252.92" y="303" text-anchor="end" transform="rotate(-45 252.92 303)" font-family="Arial" font-size="9">motif TF x H3K27me3 blastocyst histone only</text>
+<rect x="300.64" y="231.67" width="42.88" height="53.33" fill="#6f4d8b"/>
+<text x="322.08" y="226.67" text-anchor="middle" font-family="Arial" font-size="10">0.222</text>
+<text x="322.08" y="303" text-anchor="end" transform="rotate(-45 322.08 303)" font-family="Arial" font-size="9">motif TF x H3K27me3 morula histone only</text>
+<rect x="369.81" y="231.67" width="42.88" height="53.33" fill="#6f4d8b"/>
+<text x="391.25" y="226.67" text-anchor="middle" font-family="Arial" font-size="10">0.222</text>
+<text x="391.25" y="303" text-anchor="end" transform="rotate(-45 391.25 303)" font-family="Arial" font-size="9">motif TF x H3K4me3 8cell histone only</text>
+<rect x="438.98" y="231.67" width="42.88" height="53.33" fill="#6f4d8b"/>
+<text x="460.42" y="226.67" text-anchor="middle" font-family="Arial" font-size="10">0.222</text>
+<text x="460.42" y="303" text-anchor="end" transform="rotate(-45 460.42 303)" font-family="Arial" font-size="9">motif TF x H3K4me3 blastocyst histone only</text>
+<rect x="508.14" y="274.33" width="42.88" height="10.67" fill="#6f4d8b"/>
+<text x="529.58" y="269.33" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="529.58" y="303" text-anchor="end" transform="rotate(-45 529.58 303)" font-family="Arial" font-size="9">H3K27me3 blastocyst histone only</text>
+<rect x="577.31" y="274.33" width="42.88" height="10.67" fill="#6f4d8b"/>
+<text x="598.75" y="269.33" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="598.75" y="303" text-anchor="end" transform="rotate(-45 598.75 303)" font-family="Arial" font-size="9">H3K27me3 morula to blastocyst histone delta</text>
+<rect x="646.48" y="274.33" width="42.88" height="10.67" fill="#6f4d8b"/>
+<text x="667.92" y="269.33" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="667.92" y="303" text-anchor="end" transform="rotate(-45 667.92 303)" font-family="Arial" font-size="9">motif TF x H3K27me3 8cell histone only</text>
+<rect x="715.64" y="285.00" width="42.88" height="0.00" fill="#6f4d8b"/>
+<text x="737.08" y="280.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="737.08" y="303" text-anchor="end" transform="rotate(-45 737.08 303)" font-family="Arial" font-size="9">H3K27ac 8cell histone only</text>
+<rect x="784.81" y="285.00" width="42.88" height="0.00" fill="#6f4d8b"/>
+<text x="806.25" y="280.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="806.25" y="303" text-anchor="end" transform="rotate(-45 806.25 303)" font-family="Arial" font-size="9">H3K27ac blastocyst histone only</text>
+<rect x="853.98" y="285.00" width="42.88" height="0.00" fill="#6f4d8b"/>
+<text x="875.42" y="280.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="875.42" y="303" text-anchor="end" transform="rotate(-45 875.42 303)" font-family="Arial" font-size="9">H3K27me3 8cell histone only</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="470" viewBox="0 0 1050 470">
+<rect width="100%" height="100%" fill="white"/>
+<text x="85" y="28" font-family="Arial" font-size="19" font-weight="700">Non-leaking distribution dynamics: observed morula basin occupancy test</text>
+<line x1="85" y1="315" x2="1025" y2="315" stroke="#222"/>
+<line x1="85" y1="45" x2="85" y2="315" stroke="#222"/>
+<line x1="85" y1="315.00" x2="1025" y2="315.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="319.00" text-anchor="end" font-family="Arial" font-size="11">0</text>
+<line x1="85" y1="247.50" x2="1025" y2="247.50" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="251.50" text-anchor="end" font-family="Arial" font-size="11">0.25</text>
+<line x1="85" y1="180.00" x2="1025" y2="180.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="184.00" text-anchor="end" font-family="Arial" font-size="11">0.5</text>
+<line x1="85" y1="112.50" x2="1025" y2="112.50" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="116.50" text-anchor="end" font-family="Arial" font-size="11">0.75</text>
+<line x1="85" y1="78.75" x2="1025" y2="78.75" stroke="#b33" stroke-dasharray="4 4"/>
+<text x="77" y="82.75" text-anchor="end" font-family="Arial" font-size="11">0.875</text>
+<line x1="85" y1="45.00" x2="1025" y2="45.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="77" y="49.00" text-anchor="end" font-family="Arial" font-size="11">1</text>
+<rect x="107.33" y="315.00" width="72.85" height="0.00" fill="#2f6f8f"/>
+<text x="143.75" y="310.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="143.75" y="333" text-anchor="end" transform="rotate(-45 143.75 333)" font-family="Arial" font-size="10">pre morula moment extrapolated gaussian</text>
+<rect x="224.82" y="315.00" width="72.85" height="0.00" fill="#2f6f8f"/>
+<text x="261.25" y="310.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="261.25" y="333" text-anchor="end" transform="rotate(-45 261.25 333)" font-family="Arial" font-size="10">pre morula validation tuned extrapolated ou</text>
+<rect x="342.32" y="310.71" width="72.85" height="4.29" fill="#2f6f8f"/>
+<text x="378.75" y="305.71" text-anchor="middle" font-family="Arial" font-size="10">0.016</text>
+<text x="378.75" y="333" text-anchor="end" transform="rotate(-45 378.75 333)" font-family="Arial" font-size="10">pre morula affine gaussian transition kernel</text>
+<rect x="459.82" y="308.67" width="72.85" height="6.33" fill="#2f6f8f"/>
+<text x="496.25" y="303.67" text-anchor="middle" font-family="Arial" font-size="10">0.023</text>
+<text x="496.25" y="333" text-anchor="end" transform="rotate(-45 496.25 333)" font-family="Arial" font-size="10">pre morula velocity residual sde</text>
+<rect x="577.33" y="303.00" width="72.85" height="12.00" fill="#2f6f8f"/>
+<text x="613.75" y="298.00" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="613.75" y="333" text-anchor="end" transform="rotate(-45 613.75 333)" font-family="Arial" font-size="10">pre morula velocity deterministic</text>
+<rect x="694.83" y="85.95" width="72.85" height="229.05" fill="#b56b2a"/>
+<text x="731.25" y="80.95" text-anchor="middle" font-family="Arial" font-size="10">0.848</text>
+<text x="731.25" y="333" text-anchor="end" transform="rotate(-45 731.25 333)" font-family="Arial" font-size="10">morula calibrated ou upper bound</text>
+<rect x="812.33" y="308.85" width="72.85" height="6.15" fill="#b56b2a"/>
+<text x="848.75" y="303.85" text-anchor="middle" font-family="Arial" font-size="10">0.023</text>
+<text x="848.75" y="333" text-anchor="end" transform="rotate(-45 848.75 333)" font-family="Arial" font-size="10">leave morula with blastocyst interpolated gaussian</text>
+<rect x="929.83" y="213.57" width="72.85" height="101.43" fill="#b56b2a"/>
+<text x="966.25" y="208.57" text-anchor="middle" font-family="Arial" font-size="10">0.376</text>
+<text x="966.25" y="333" text-anchor="end" transform="rotate(-45 966.25 333)" font-family="Arial" font-size="10">leave morula with blastocyst interpolated ou</text>
+<text x="85" y="450" font-family="Arial" font-size="12">Red guide: observed morula q90 occupancy = 0.875. Orange is a morula-leaking upper bound, not a strict model.</text>
+</svg>

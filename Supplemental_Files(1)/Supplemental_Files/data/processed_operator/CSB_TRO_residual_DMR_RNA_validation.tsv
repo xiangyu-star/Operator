@@ -1,0 +1,2 @@
+analysis_status	reason	required_input
+not_run_missing_external_input	No compatible local input file was provided.	stage-resolved RNA expression matrix

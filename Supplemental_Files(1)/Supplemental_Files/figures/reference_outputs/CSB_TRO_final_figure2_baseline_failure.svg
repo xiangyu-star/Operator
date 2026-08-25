@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360">
+<rect width="100%" height="100%" fill="white"/>
+<text x="36" y="38" font-family="Arial" font-size="20" font-weight="700">Methylation-only dynamics fails to generate morula basin</text>
+<rect x="120" y="110" width="22.0" height="42" fill="#777"/><text x="90" y="138" text-anchor="end" font-family="Arial" font-size="14">baseline</text><text x="152.0" y="137" font-family="Arial" font-size="14">0.044</text>
+<rect x="120" y="190" width="437.5" height="42" fill="#245c7a"/><text x="90" y="218" text-anchor="end" font-family="Arial" font-size="14">observed</text><text x="567.5" y="217" font-family="Arial" font-size="14">0.875</text>
+<text x="120" y="285" font-family="Arial" font-size="14">The gap defines the measured missing basin-attraction correction term.</text>
+</svg>

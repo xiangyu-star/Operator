@@ -1,0 +1,2 @@
+analysis_status	reason	required_input
+not_run_missing_external_input	No compatible local input file was provided.	ATAC peak/signal BED files

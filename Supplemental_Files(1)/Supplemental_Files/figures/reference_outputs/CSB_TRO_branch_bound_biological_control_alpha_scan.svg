@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440">
+<rect width="100%" height="100%" fill="white"/>
+<text x="85" y="28" font-family="Arial" font-size="18" font-weight="700">Branch-bound biological control candidates</text>
+<line x1="85" y1="290" x2="975" y2="290" stroke="#222"/>
+<line x1="85" y1="45" x2="85" y2="290" stroke="#222"/>
+<line x1="85" y1="279.22" x2="975" y2="279.22" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="77" y="283.22" text-anchor="end" font-family="Arial" font-size="10">0.044</text>
+<line x1="85" y1="216.50" x2="975" y2="216.50" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="77" y="220.50" text-anchor="end" font-family="Arial" font-size="10">0.3</text>
+<line x1="85" y1="167.50" x2="975" y2="167.50" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="77" y="171.50" text-anchor="end" font-family="Arial" font-size="10">0.5</text>
+<line x1="85" y1="75.62" x2="975" y2="75.62" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="77" y="79.62" text-anchor="end" font-family="Arial" font-size="10">0.875</text>
+<line x1="85" y1="45.00" x2="975" y2="45.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="77" y="49.00" text-anchor="end" font-family="Arial" font-size="10">1</text>
+<rect x="99.09" y="241.00" width="45.98" height="49.00" fill="#2c6f5a"/>
+<text x="122.08" y="236.00" text-anchor="middle" font-family="Arial" font-size="10">0.200</text>
+<text x="122.08" y="308" text-anchor="end" transform="rotate(-45 122.08 308)" font-family="Arial" font-size="9">biocontrol ATAC TF RNA composite</text>
+<rect x="173.26" y="241.00" width="45.98" height="49.00" fill="#2c6f5a"/>
+<text x="196.25" y="236.00" text-anchor="middle" font-family="Arial" font-size="10">0.200</text>
+<text x="196.25" y="308" text-anchor="end" transform="rotate(-45 196.25 308)" font-family="Arial" font-size="9">biocontrol ATAC closure plus ATAC access</text>
+<rect x="247.43" y="241.00" width="45.98" height="49.00" fill="#2c6f5a"/>
+<text x="270.42" y="236.00" text-anchor="middle" font-family="Arial" font-size="10">0.200</text>
+<text x="270.42" y="308" text-anchor="end" transform="rotate(-45 270.42 308)" font-family="Arial" font-size="9">closure ATAC loss ATAC 8cell 3pn</text>
+<rect x="321.59" y="246.44" width="45.98" height="43.56" fill="#6f4d8b"/>
+<text x="344.58" y="241.44" text-anchor="middle" font-family="Arial" font-size="10">0.178</text>
+<text x="344.58" y="308" text-anchor="end" transform="rotate(-45 344.58 308)" font-family="Arial" font-size="9">mitochondrial oxphos energy program</text>
+<rect x="395.76" y="251.89" width="45.98" height="38.11" fill="#2c6f5a"/>
+<text x="418.75" y="246.89" text-anchor="middle" font-family="Arial" font-size="10">0.156</text>
+<text x="418.75" y="308" text-anchor="end" transform="rotate(-45 418.75 308)" font-family="Arial" font-size="9">biocontrol ATAC closure plus TF access</text>
+<rect x="469.93" y="262.78" width="45.98" height="27.22" fill="#6f4d8b"/>
+<text x="492.92" y="257.78" text-anchor="middle" font-family="Arial" font-size="10">0.111</text>
+<text x="492.92" y="308" text-anchor="end" transform="rotate(-45 492.92 308)" font-family="Arial" font-size="9">metabolic onecarbon sam program</text>
+<rect x="544.09" y="273.67" width="45.98" height="16.33" fill="#2c6f5a"/>
+<text x="567.08" y="268.67" text-anchor="middle" font-family="Arial" font-size="10">0.067</text>
+<text x="567.08" y="308" text-anchor="end" transform="rotate(-45 567.08 308)" font-family="Arial" font-size="9">closure ATAC loss ATAC 8cell 2pn</text>
+<rect x="618.26" y="279.11" width="45.98" height="10.89" fill="#2c6f5a"/>
+<text x="641.25" y="274.11" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="641.25" y="308" text-anchor="end" transform="rotate(-45 641.25 308)" font-family="Arial" font-size="9">access promoter ATAC ATAC 8cell 2pn</text>
+<rect x="692.43" y="279.11" width="45.98" height="10.89" fill="#6f4d8b"/>
+<text x="715.42" y="274.11" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="715.42" y="308" text-anchor="end" transform="rotate(-45 715.42 308)" font-family="Arial" font-size="9">access linked RNA delta surrogate</text>
+<rect x="766.59" y="279.11" width="45.98" height="10.89" fill="#6f4d8b"/>
+<text x="789.58" y="274.11" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="789.58" y="308" text-anchor="end" transform="rotate(-45 789.58 308)" font-family="Arial" font-size="9">closure histone repression program</text>
+<rect x="840.76" y="279.11" width="45.98" height="10.89" fill="#6f4d8b"/>
+<text x="863.75" y="274.11" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="863.75" y="308" text-anchor="end" transform="rotate(-45 863.75 308)" font-family="Arial" font-size="9">access promoter activation program</text>
+<rect x="914.93" y="279.11" width="45.98" height="10.89" fill="#777777"/>
+<text x="937.92" y="274.11" text-anchor="middle" font-family="Arial" font-size="10">0.044</text>
+<text x="937.92" y="308" text-anchor="end" transform="rotate(-45 937.92 308)" font-family="Arial" font-size="9">access TF activity q05 sparse flipped acti</text>
+</svg>

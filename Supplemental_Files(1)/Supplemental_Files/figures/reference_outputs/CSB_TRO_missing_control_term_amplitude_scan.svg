@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="390" viewBox="0 0 820 390">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="26" font-family="Arial" font-size="18" font-weight="700">Missing control term amplitude scan</text>
+<line x1="70" y1="320" x2="795" y2="320" stroke="#222"/>
+<line x1="70" y1="40" x2="70" y2="320" stroke="#222"/>
+<line x1="70" y1="320.00" x2="795" y2="320.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="62" y="324.00" text-anchor="end" font-family="Arial" font-size="11">0</text>
+<line x1="70" y1="250.00" x2="795" y2="250.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="62" y="254.00" text-anchor="end" font-family="Arial" font-size="11">0.25</text>
+<line x1="70" y1="180.00" x2="795" y2="180.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="62" y="184.00" text-anchor="end" font-family="Arial" font-size="11">0.5</text>
+<line x1="70" y1="110.00" x2="795" y2="110.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="62" y="114.00" text-anchor="end" font-family="Arial" font-size="11">0.75</text>
+<line x1="70" y1="75.00" x2="795" y2="75.00" stroke="#b33" stroke-dasharray="4 4"/>
+<text x="62" y="79.00" text-anchor="end" font-family="Arial" font-size="11">0.875</text>
+<line x1="70" y1="40.00" x2="795" y2="40.00" stroke="#ddd" stroke-dasharray="4 4"/>
+<text x="62" y="44.00" text-anchor="end" font-family="Arial" font-size="11">1</text>
+<polyline points="70.00,307.56 128.00,282.67 215.00,201.78 360.00,58.67 505.00,46.22 577.50,40.00 650.00,40.00 722.50,46.22 795.00,52.44" fill="none" stroke="#2f6f8f" stroke-width="2.5"/>
+<circle cx="70.00" cy="307.56" r="3.5" fill="#2f6f8f"/>
+<circle cx="128.00" cy="282.67" r="3.5" fill="#2f6f8f"/>
+<circle cx="215.00" cy="201.78" r="3.5" fill="#2f6f8f"/>
+<circle cx="360.00" cy="58.67" r="3.5" fill="#2f6f8f"/>
+<circle cx="505.00" cy="46.22" r="3.5" fill="#2f6f8f"/>
+<circle cx="577.50" cy="40.00" r="3.5" fill="#2f6f8f"/>
+<circle cx="650.00" cy="40.00" r="3.5" fill="#2f6f8f"/>
+<circle cx="722.50" cy="46.22" r="3.5" fill="#2f6f8f"/>
+<circle cx="795.00" cy="52.44" r="3.5" fill="#2f6f8f"/>
+<text x="70.00" y="338" text-anchor="middle" font-family="Arial" font-size="10">0</text>
+<text x="128.00" y="338" text-anchor="middle" font-family="Arial" font-size="10">0.1</text>
+<text x="215.00" y="338" text-anchor="middle" font-family="Arial" font-size="10">0.25</text>
+<text x="360.00" y="338" text-anchor="middle" font-family="Arial" font-size="10">0.5</text>
+<text x="505.00" y="338" text-anchor="middle" font-family="Arial" font-size="10">0.75</text>
+<text x="577.50" y="338" text-anchor="middle" font-family="Arial" font-size="10">0.875</text>
+<text x="650.00" y="338" text-anchor="middle" font-family="Arial" font-size="10">1</text>
+<text x="722.50" y="338" text-anchor="middle" font-family="Arial" font-size="10">1.125</text>
+<text x="795.00" y="338" text-anchor="middle" font-family="Arial" font-size="10">1.25</text>
+<text x="70" y="370" font-family="Arial" font-size="12">x-axis: fraction of measured correction term added during 8-cell to morula. Red guide: observed occupancy 0.875.</text>
+</svg>

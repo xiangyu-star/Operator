@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="460" viewBox="0 0 1050 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="85" y="28" font-family="Arial" font-size="18" font-weight="700">Dual-branch robustness controls</text>
+<line x1="85" y1="310" x2="1020" y2="310" stroke="#222"/>
+<line x1="85" y1="45" x2="85" y2="310" stroke="#222"/>
+<line x1="85" y1="298.34" x2="1020" y2="298.34" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="77" y="302.34" text-anchor="end" font-family="Arial" font-size="10">0.044</text>
+<line x1="85" y1="56.78" x2="1020" y2="56.78" stroke="#888888" stroke-dasharray="4 4"/>
+<text x="77" y="60.78" text-anchor="end" font-family="Arial" font-size="10">0.956</text>
+<line x1="85" y1="78.12" x2="1020" y2="78.12" stroke="#b23b3b" stroke-dasharray="4 4"/>
+<text x="77" y="82.12" text-anchor="end" font-family="Arial" font-size="10">0.875</text>
+<line x1="85" y1="45.00" x2="1020" y2="45.00" stroke="#dddddd" stroke-dasharray="4 4"/>
+<text x="77" y="49.00" text-anchor="end" font-family="Arial" font-size="10">1</text>
+<rect x="99.80" y="56.78" width="48.31" height="253.22" fill="#2c6f5a"/>
+<text x="123.96" y="51.78" text-anchor="middle" font-family="Arial" font-size="10">0.956</text>
+<text x="123.96" y="328" text-anchor="end" transform="rotate(-45 123.96 328)" font-family="Arial" font-size="9">full dual branch</text>
+<rect x="177.72" y="151.00" width="48.31" height="159.00" fill="#2c6f5a"/>
+<text x="201.88" y="146.00" text-anchor="middle" font-family="Arial" font-size="10">0.600</text>
+<text x="201.88" y="328" text-anchor="end" transform="rotate(-45 201.88 328)" font-family="Arial" font-size="9">closure branch only</text>
+<rect x="255.64" y="198.11" width="48.31" height="111.89" fill="#8a8a8a"/>
+<text x="279.79" y="193.11" text-anchor="middle" font-family="Arial" font-size="10">0.422</text>
+<text x="279.79" y="328" text-anchor="end" transform="rotate(-45 279.79 328)" font-family="Arial" font-size="9">access branch only</text>
+<rect x="333.55" y="103.89" width="48.31" height="206.11" fill="#6f4d8b"/>
+<text x="357.71" y="98.89" text-anchor="middle" font-family="Arial" font-size="10">0.778</text>
+<text x="357.71" y="328" text-anchor="end" transform="rotate(-45 357.71 328)" font-family="Arial" font-size="9">remove M05</text>
+<rect x="411.47" y="62.67" width="48.31" height="247.33" fill="#6f4d8b"/>
+<text x="435.62" y="57.67" text-anchor="middle" font-family="Arial" font-size="10">0.933</text>
+<text x="435.62" y="328" text-anchor="end" transform="rotate(-45 435.62 328)" font-family="Arial" font-size="9">remove M01</text>
+<rect x="489.39" y="56.78" width="48.31" height="253.22" fill="#6f4d8b"/>
+<text x="513.54" y="51.78" text-anchor="middle" font-family="Arial" font-size="10">0.956</text>
+<text x="513.54" y="328" text-anchor="end" transform="rotate(-45 513.54 328)" font-family="Arial" font-size="9">remove M12</text>
+<rect x="567.30" y="74.44" width="48.31" height="235.56" fill="#6f4d8b"/>
+<text x="591.46" y="69.44" text-anchor="middle" font-family="Arial" font-size="10">0.889</text>
+<text x="591.46" y="328" text-anchor="end" transform="rotate(-45 591.46 328)" font-family="Arial" font-size="9">remove M02</text>
+<rect x="645.22" y="62.67" width="48.31" height="247.33" fill="#6f4d8b"/>
+<text x="669.38" y="57.67" text-anchor="middle" font-family="Arial" font-size="10">0.933</text>
+<text x="669.38" y="328" text-anchor="end" transform="rotate(-45 669.38 328)" font-family="Arial" font-size="9">remove M10</text>
+<rect x="723.14" y="310.00" width="48.31" height="0.00" fill="#2c6f5a"/>
+<text x="747.29" y="305.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="747.29" y="328" text-anchor="end" transform="rotate(-45 747.29 328)" font-family="Arial" font-size="9">wrong closure correct access</text>
+<rect x="801.05" y="262.89" width="48.31" height="47.11" fill="#2c6f5a"/>
+<text x="825.21" y="257.89" text-anchor="middle" font-family="Arial" font-size="10">0.178</text>
+<text x="825.21" y="328" text-anchor="end" transform="rotate(-45 825.21 328)" font-family="Arial" font-size="9">correct closure wrong access</text>
+<rect x="878.97" y="221.67" width="48.31" height="88.33" fill="#8a8a8a"/>
+<text x="903.13" y="216.67" text-anchor="middle" font-family="Arial" font-size="10">0.333</text>
+<text x="903.13" y="328" text-anchor="end" transform="rotate(-45 903.13 328)" font-family="Arial" font-size="9">naive inverse all modules</text>
+<rect x="956.89" y="310.00" width="48.31" height="0.00" fill="#8a8a8a"/>
+<text x="981.04" y="305.00" text-anchor="middle" font-family="Arial" font-size="10">0.000</text>
+<text x="981.04" y="328" text-anchor="end" transform="rotate(-45 981.04 328)" font-family="Arial" font-size="9">naive raw all modules</text>
+<text x="85" y="438" font-family="Arial" font-size="12">Gray guide: random partition q95. Red guides: methylation baseline and observed morula occupancy.</text>
+</svg>

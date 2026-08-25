@@ -1,0 +1,4 @@
+eigen_index	real_part	imag_part	stability_class
+1	-3.622492503267667	0.0	contracting
+2	-5.80519542858584	0.656058887613834	contracting
+3	-5.80519542858584	-0.656058887613834	contracting
